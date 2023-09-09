@@ -13,7 +13,7 @@ import json
 
 conn = None
 scrapper_conn = None
-DATABASE_URL = 'postgres://scraper_postgresql_user:6c8QKNK5p3eXuOI42MSR6GwhCk1x6hTj@dpg-cjtndm1gdgss738f4t60-a.oregon-postgres.render.com/scraper_postgresql'
+DATABASE_URL = 'postgres://scraper_postgresql_user:6c8QKNK5p3eXuOI42MSR6GwhCk1x6hTj@dpg-cjtndm1gdgss738f4t60-a/scraper_postgresql'
 
 
 def init_database():
